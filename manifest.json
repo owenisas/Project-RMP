@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Hello World",
+  "name": "Tech Club RMP",
   "version": "1.0",
-  "description": "A simple Hello World Chrome extension.",
+  "description": "Project-RMP.",
   "background": {
     "service_worker": "background.js"
   },
